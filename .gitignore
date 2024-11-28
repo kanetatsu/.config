@@ -1,1 +1,3 @@
+*.swp
+tags
 nvim/pack/github/start/copilot.vim
